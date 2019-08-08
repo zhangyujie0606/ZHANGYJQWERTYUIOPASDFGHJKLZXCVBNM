@@ -1,11 +1,16 @@
-name: ZHANGYUJiwsery
+name: 张玉洁的组件
 description: 一种轻量级的 websocket 的客户端。v不断v比我v我v哦卖我Ivor我能不并未v被v比热瓦北侧哦呜v弄热v浓而能从二五v哦任务吧v饿哦如不v饿哦
 keywords:
   - ZHANGYUJI
   - 年号
-license: 中文
-logo: https://www.baidu.com/s?ie=utf-8&wd=%E6%9D%8E%E6%98%93%E5%B3%B0
-
+  - test1
+  - TEST2
+  - 张玉洁的抱歉
+  - ZHANGYUJI
+  - 年号
+  - test1
+  - TEST2
+  - 张玉洁的抱歉
 build_config:
   include:
     - include
