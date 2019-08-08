@@ -4,7 +4,6 @@ keywords:
   - ZHANGYUJI
   - 年号
 logo: 
-  - src/*.c
 
 build_config:
   include:
